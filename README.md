@@ -846,14 +846,7 @@ Personal Mission:
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                    🚀 End of Profile Journey 🚀                    ║
-║                                                                   ║
-║    "The best way to predict the future is to create it."         ║
-║                        - Peter Drucker                           ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff" />
 
